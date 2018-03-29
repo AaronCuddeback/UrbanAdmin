@@ -12,3 +12,18 @@ body {
 section {
   flex: 1 0 auto;
 }
+
+.section-login h2 {
+  margin-bottom: 50px;
+}
+
+.login {
+  margin-top: 70px;
+}
+
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20%;
+}
